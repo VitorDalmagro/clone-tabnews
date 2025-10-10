@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Família, eu amo vocês. Se vocês também me amam, deem uma risadinha</h1>
+    return <h1>Família, obrigado por me apoiar todos os dias. Estou com saudades e amo vocês! Se vocês também me amam, deem uma risadinha aí kkk.</h1>
 }
 
 export default Home;
