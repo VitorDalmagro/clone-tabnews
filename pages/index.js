@@ -7,12 +7,4 @@ function Home() {
   );
 }
 
-function teste() {
-  console.log("Teste");
-}
-
-function teste2() {
-  console.log("Identação errada");
-}
-
 export default Home;
