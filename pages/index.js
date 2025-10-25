@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>G lolzin?</h1>;
+  return <h1>G lolzin caiaum?</h1>;
 }
 
 export default Home;
